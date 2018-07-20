@@ -101,7 +101,12 @@ body{
 	font-size:28; 
 }
 
-
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
 
 .nav-link{
 	font-size: 15; 
